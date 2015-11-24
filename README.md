@@ -1,1 +1,1 @@
-![Image text](https://github.com/effevo/font-end-system/blob/master/img/前端知识体系-最终.jpg)
+![Image text](https://github.com/effevo/font-end-system/blob/master/img/front.jpg)
